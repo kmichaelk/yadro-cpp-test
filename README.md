@@ -11,7 +11,7 @@ cmake ../
 cmake --build .
 ```
 
-Для сборки в режиме Debug:
+После сборки в режиме Debug:
 
 ```shell
 $ cd Debug
